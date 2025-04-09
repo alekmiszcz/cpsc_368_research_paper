@@ -1,6 +1,6 @@
-# cpsc_368_research_paper
+# CPSC 368 Research Paper
 
-# Liver Cancer Risk Factor Analysis During the COVID-19 Pandemic
+# Introduction
 
 This research project investigates the difference in the relationship between **health expenditure per capita** and **average cancer mortality** between **developed** and **developing** countries. And the relationship between lifestyle factors—**tobacco use**, **alcohol consumption**, and **obesity rates**—and the **prevalence of liver cancer** during the COVID-19 pandemic. 
 
