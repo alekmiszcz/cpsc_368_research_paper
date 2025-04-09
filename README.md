@@ -12,6 +12,7 @@ This research project investigates the difference in the relationship between **
   Used for data loading, manipulation, and preprocessing. 
   
 `numpy(np)` 
+
   Used for data manipulation and computing
   
 `altair(alt)`  
