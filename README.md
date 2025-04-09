@@ -20,7 +20,7 @@ This research project investigates the difference in the relationship between **
 `seaborn(sns)`  
   Used for statistical data visualization, especially regression plots and correlation heatmaps to explore relationships between variables.
 
-`matplotlib.pyplot as plt`  
+`matplotlib(plt)`  
   Used for static plotting of scatter plots and regression diagnostics. 
 
 `sklearn`  
