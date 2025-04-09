@@ -11,7 +11,8 @@ This research project investigates the difference in the relationship between **
 `pandas(pd)`  
   Used for data loading, manipulation, and preprocessing. 
   
-`numpy(np)`
+`numpy(np)` 
+
   Used for data manipulation and computing
   
 `altair(alt)`  
