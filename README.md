@@ -37,3 +37,6 @@ This research project investigates the difference in the relationship between **
   
 `statsmodels.api as sm`  
   Used for detailed regression modeling and statistical summaries, including confidence intervals and p-values.
+
+## File purpose
+The final_report.ipynb inside the analysis folder includes the whole research paper.
